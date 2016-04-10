@@ -1,8 +1,3 @@
-// Working title...
-// This is mostly for testing. It might make it
-// into the mainline one day. but there's a hell
-// of a lot of porting work to do before we can
-// do that.
 package Bluetree2;
 
 export BluetreeTaskId;
